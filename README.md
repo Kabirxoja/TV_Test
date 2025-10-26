@@ -7,7 +7,6 @@ It also remembers the **last opened app** and displays it at the top of the list
 
 ✅ **Launcher Functionality**
 - Works as a full **Home Launcher** (with `HOME` and `LAUNCHER` intent filters).  
-- Automatically opens when set as the default launcher on Android TV.  
 - Compatible with **Android TV**, **Google TV**, and **Mobile devices**.
 
 ✅ **App List**
@@ -41,3 +40,12 @@ It also remembers the **last opened app** and displays it at the top of the list
 | **Storage** | SharedPreferences |
 | **minSdkVersion** | 21 |
 | **targetSdkVersion** | 35 |
+
+Using the Leanback UI toolkit
+https://developer.android.com/training/tv/playback/leanback?utm
+
+ArrayObjectAdapter
+https://developer.android.com/reference/androidx/leanback/widget/ArrayObjectAdapter?utm
+
+VerticalGridSupportFragment
+https://developer.android.com/reference/androidx/leanback/app/VerticalGridSupportFragment?utm_source=chatgpt.com
