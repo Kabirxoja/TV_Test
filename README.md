@@ -16,7 +16,6 @@ It also remembers the **last opened app** and displays it at the top of the list
 
 ✅ **Leanback UI**
 - Uses **Leanback library** components such as `VerticalGridSupportFragment` and `ArrayObjectAdapter`.  
-- Optimized for Android TV navigation and D-pad focus.
 
 ✅ **State Saving**
 - Saves the **last launched app** using `SharedPreferences`.  
@@ -25,7 +24,7 @@ It also remembers the **last opened app** and displays it at the top of the list
 ✅ **Multi-Device Support**
 - Tested and works on:
   - Android TV Emulator  
-  - Google TV  
+  - Google TV Emulator
   - Android Phone (for testing via `LAUNCHER` intent)
 
 ---
