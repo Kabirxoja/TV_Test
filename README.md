@@ -1,4 +1,4 @@
-It displays all installed applications in a Leanback-style grid layout and allows the user to launch any app directly.  
+It displays all installed applications in a Leanback-style grid layout and allows the user to launch apps directly.  
 It also remembers the **last opened app** and displays it at the top of the list for a better user experience.
 
 ---
